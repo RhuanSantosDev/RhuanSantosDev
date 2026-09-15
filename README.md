@@ -123,5 +123,20 @@ Olá, me chamo Rhuan Camargo, tenho 21 anos e sou natural de São Paulo. Sou um 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
   />
 </a>
+---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RhuanSantosDev/RhuanSantosDev/output/breakout-contribution-graph-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RhuanSantosDev/RhuanSantosDev/output/breakout-contribution-graph.svg"
+  >
+  <img
+    alt="Breakout contribution graph"
+    src="https://raw.githubusercontent.com/RhuanSantosDev/RhuanSantosDev/output/breakout-contribution-graph.svg"
+  >
+</picture>
 
 <br clear="left"/>
