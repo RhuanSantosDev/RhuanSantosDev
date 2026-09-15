@@ -113,14 +113,14 @@ Olá, me chamo Rhuan Camargo, tenho 21 anos e sou natural de São Paulo. Sou um 
   />
 </a>
 
-<a href="mailto:Rhuansantos.c1@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=Rhuansantos.c1@gmail.com" target="_blank">
   <img 
     align="left" 
     alt="Gmail" 
-    title="Gmail"
+    title="Enviar email"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
+    src="https://cdn.simpleicons.org/gmail"
   />
 </a>
 
