@@ -123,7 +123,11 @@ Olá, me chamo Rhuan Camargo, tenho 21 anos e sou natural de São Paulo. Sou um 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"
   />
 </a>
+
+<br>
+
 ---
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
